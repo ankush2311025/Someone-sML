@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# VSCode settings
+.vscode/
+
+# Temporary uploads
+uploads/
+
+# Model files (optional, if too large)
+*.h5
+
