@@ -14,3 +14,12 @@ uploads/
 # Model files (optional, if too large)
 *.h5
 
+# Virtual environment
+venv.bak/
+
+# Other common ignores for Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
